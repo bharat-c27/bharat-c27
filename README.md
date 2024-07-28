@@ -19,5 +19,14 @@
 ✨ GSSOC'24 Contributor <br>
 ⚡ Check my ✨ <a href="#" rel="nofollow">Website</a> <br>
 💬 Ask me about Web Development<br>
+<br>
+ 
+## 🪶 GSSOC(24) Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='left'>
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+</div>
+<br>
 
-## <b>📚 Projects </b><br>
+## 📚 Projects
