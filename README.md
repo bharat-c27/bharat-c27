@@ -13,7 +13,7 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="350px" align="right" style="max-width: 100%;"><br>
+<img src="https://github.com/user-attachments/assets/754749d8-3390-4a24-a689-509cc0e8f8a1" width="350px" align="right" style="max-width: 100%;"><br>
 
 ## 👨🏻‍💻 About Me<br>
 ✨ GSSOC'24 Contributor <br>
