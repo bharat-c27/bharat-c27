@@ -12,7 +12,6 @@
 </p> 
 
 <hr>
-<img src="https://komarev.com/ghpvc/?username=bharat-c27&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-c27" />
 
 <img src="https://github.com/user-attachments/assets/754749d8-3390-4a24-a689-509cc0e8f8a1" width="350px" align="right" style="max-width: 100%;"><br>
 
