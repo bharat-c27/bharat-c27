@@ -34,9 +34,9 @@
 </div>
 <br><br>
 
-<div style='display:flex; align-items:center; gap: 10px;' align='left; '>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&locale=en" alt="bharat-c27" />
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-c27&" alt="bharat-c27" />
+<div style='display:flex; align-items:center; gap: 10px;'>
+  <img src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&locale=en" alt="bharat-c27" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-c27&" alt="bharat-c27" />
 </div>
 
 <br><br>
