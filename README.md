@@ -35,7 +35,7 @@
 <br><br>
 
 <div style='display:flex; align-items:center; gap: 10px;'>
-  <img src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&locale=en" alt="bharat-c27" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&locale=en" alt="bharat-c27" />
   <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-c27&" alt="bharat-c27" />
 </div>
 
