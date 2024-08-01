@@ -37,10 +37,10 @@
 
 <div style='display:flex;'>
   <a >
-    <img width="410px" src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&theme=transparent" alt="My GitHub Stats" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&theme=transparent" alt="My GitHub Stats" />
   </a>
   <a>
-    <img width="430px" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-c27&show_icons=true&theme=transparent" alt="bharat-c27" />
+    <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-c27&show_icons=true&theme=transparent" alt="bharat-c27" />
   </a>
 </div>
 
