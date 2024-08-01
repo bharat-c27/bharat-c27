@@ -36,21 +36,12 @@
 <br><br>
 
 <div style='display:flex;'>
-  <a href="https://github.com/bharat-c27#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/bharat-c27#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/bharat-c27#gh-light-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-c27&show_icons=true&theme=graywhite#gh-light-mode-only" alt="bharat-c27" />
-</a>
-
-<a href="https://github.com/bharat-c27#gh-dark-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-c27&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="bharat-c27" />
-</a>
+  <a >
+    <img width="410px" src="https://github-readme-stats.vercel.app/api?username=bharat-c27&show_icons=true&theme=transparent" alt="My GitHub Stats" />
+  </a>
+  <a>
+    <img width="430px" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat-c27&show_icons=true&theme=transparent" alt="bharat-c27" />
+  </a>
 </div>
 
 <br><br>
