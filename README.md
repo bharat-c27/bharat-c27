@@ -45,7 +45,7 @@
 </div>
 
 <br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-c27" alt="bharat-c27" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat-c27&show_icons=true&theme=transparent" alt="bharat-c27" /></a> </p>
 
 <br>
 
