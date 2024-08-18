@@ -1,3 +1,5 @@
+![Screenshot 2024-08-18 120929](https://github.com/user-attachments/assets/b16984f9-77c6-41e3-b726-a9c204df690b)
+
 <h1 align="center"> Hi there 👋, I'm <a href="https://github.com/bharat-c27">Bharat</a> </h1>
 
 <p align="center">
